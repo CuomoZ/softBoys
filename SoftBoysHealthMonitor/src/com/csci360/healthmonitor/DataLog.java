@@ -1,4 +1,4 @@
--package com.csci360.healthmonitor;
+package com.csci360.healthmonitor;
 
 import java.util.ArrayList;
 
